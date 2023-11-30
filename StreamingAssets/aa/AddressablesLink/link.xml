@@ -1,0 +1,92 @@
+<linker>
+  <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AtlasSpriteProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.InstanceProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.SceneProvider" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.GameObject" preserve="all" />
+    <type fullname="UnityEngine.Transform" preserve="all" />
+    <type fullname="UnityEngine.Texture2D" preserve="all" />
+    <type fullname="UnityEngine.Shader" preserve="all" />
+    <type fullname="UnityEngine.SpriteRenderer" preserve="all" />
+    <type fullname="UnityEngine.Sprite" preserve="all" />
+    <type fullname="UnityEngine.Material" preserve="all" />
+    <type fullname="UnityEngine.RectTransform" preserve="all" />
+    <type fullname="UnityEngine.U2D.SpriteAtlas" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.Physics2DModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Rigidbody2D" preserve="all" />
+    <type fullname="UnityEngine.CircleCollider2D" preserve="all" />
+    <type fullname="UnityEngine.PolygonCollider2D" preserve="all" />
+    <type fullname="UnityEngine.BoxCollider2D" preserve="all" />
+    <type fullname="UnityEngine.CapsuleCollider2D" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.AudioSource" preserve="all" />
+    <type fullname="UnityEngine.AudioClip" preserve="all" />
+  </assembly>
+  <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Alarm" preserve="all" />
+    <type fullname="Bullet02" preserve="all" />
+    <type fullname="Tardis" preserve="all" />
+    <type fullname="Breath" preserve="all" />
+    <type fullname="WormAvatar" preserve="all" />
+    <type fullname="Shield" preserve="all" />
+    <type fullname="BreathEffect" preserve="all" />
+    <type fullname="Vortex" preserve="all" />
+    <type fullname="BulletTara" preserve="all" />
+    <type fullname="Aim" preserve="all" />
+    <type fullname="AI02" preserve="all" />
+    <type fullname="EffectAvatar" preserve="all" />
+    <type fullname="Shell" preserve="all" />
+    <type fullname="Field" preserve="all" />
+    <type fullname="Branch01" preserve="all" />
+    <type fullname="CoreAvatar" preserve="all" />
+    <type fullname="BodyAvatar" preserve="all" />
+    <type fullname="AvatarAnimator" preserve="all" />
+    <type fullname="AudioEffect" preserve="all" />
+    <type fullname="AI01" preserve="all" />
+    <type fullname="Bullet01" preserve="all" />
+    <type fullname="FireAvatar" preserve="all" />
+    <type fullname="Prop01" preserve="all" />
+    <type fullname="Organ01" preserve="all" />
+    <type fullname="BulletAvatar" preserve="all" />
+    <type fullname="ShakeEffect" preserve="all" />
+    <type fullname="PrimeWorld" preserve="all" />
+    <type fullname="GiftUI" preserve="all" />
+    <type fullname="BottomUI" preserve="all" />
+    <type fullname="Loading" preserve="all" />
+    <type fullname="TipBreath" preserve="all" />
+    <type fullname="TopUI" preserve="all" />
+    <type fullname="Tip" preserve="all" />
+    <type fullname="QuickBreathUI" preserve="all" />
+    <type fullname="Joystick" preserve="all" />
+    <type fullname="InfoTip" preserve="all" />
+    <type fullname="GiftItemView" preserve="all" />
+    <type fullname="ImageAnimator" preserve="all" />
+    <type fullname="LoopScrollView" preserve="all" />
+    <type fullname="RebornUI" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEditor.MonoScript" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.UI.Image" preserve="all" />
+    <type fullname="UnityEngine.UI.ScrollRect" preserve="all" />
+    <type fullname="UnityEngine.UI.Text" preserve="all" />
+    <type fullname="UnityEngine.UI.Button" preserve="all" />
+    <type fullname="UnityEngine.UI.Mask" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.TextRenderingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Font" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.UIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.CanvasRenderer" preserve="all" />
+  </assembly>
+</linker>
